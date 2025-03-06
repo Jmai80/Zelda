@@ -24,4 +24,4 @@ class MovementSystem extends System {
     }
 }
 
-export {MovementSystem};
+export default MovementSystem;
